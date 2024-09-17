@@ -9,3 +9,4 @@ Course = 'Pychon'
 A= 12
 B= 1.5
 C= B/A
+print (B/A)
