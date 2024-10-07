@@ -1,8 +1,8 @@
-# name = input("Введите ваше имя: ")
-# current_year = 2024
-# date_of_birth = int(input("дата вашего рождения?"))
-# age = current_year - date_of_birth
-# print ("Добрый день,", name)
-# print ("Вам исполнилось", age, "лет")
-print('моя, строка в нижнем регистре'.upper().lover())
-print ('моя, строка в нижнем регистре').replase(_old: 'здравствуйте', _new:'до свидание'))
+#my_string = input('Сабир')
+#print = int(my_string [0:1])
+print ('войдите в систему'.lower())
+print ('введите логин'.replace(' ', ' '))
+print ('введите пароль'.replace(' ', '#'))
+name = 'my_string'
+print(name[-1])
+print(name[0])
