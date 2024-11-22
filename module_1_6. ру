@@ -1,0 +1,14 @@
+my_dict  = {'Sabir':1998, 'Ruslan':1997, 'Miroslav':2009}
+my_dict['Sabir'] = 1998
+my_dict['Sasha'] = 2005
+my_dict.update ({'Alexey': 2000,
+                 'Misha': 2004})
+del my_dict['Sasha']
+print(my_dict)
+
+my_set = {8, 5, 7, 4, 3, 8, 5, 7, 4, }
+contact = {5, 8, 7,}
+contact = set(contact)
+my_set.update([3, 1, 5,])
+my_set.discard(2)
+print(my_set)
